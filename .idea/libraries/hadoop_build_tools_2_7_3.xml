@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-build-tools-2.7.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop-build-tools/target/hadoop-build-tools-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

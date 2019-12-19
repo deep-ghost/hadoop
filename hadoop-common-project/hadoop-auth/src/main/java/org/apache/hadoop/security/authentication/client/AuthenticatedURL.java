@@ -55,7 +55,7 @@ import java.util.Map;
  * // use the 'conn' instance
  * ....
  *
- * </pre>
+ * </pre>maven-project-info-reports-plugin
  */
 public class AuthenticatedURL {
 

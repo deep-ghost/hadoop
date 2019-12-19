@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="target4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-annotations/target/hadoop-annotations-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-annotations/target/hadoop-annotations-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-annotations/target/hadoop-annotations-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-annotations/target/hadoop-annotations-2.7.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

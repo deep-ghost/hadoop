@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="target2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-minikdc/target/hadoop-minikdc-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-minikdc/target/hadoop-minikdc-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-minikdc/target/hadoop-minikdc-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hadoop-common-project/hadoop-minikdc/target/hadoop-minikdc-2.7.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

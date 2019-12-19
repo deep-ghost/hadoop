@@ -118,7 +118,7 @@ public class KeyAuthorizationKeyProvider extends KeyProviderCryptoExtension {
     boolean success = false;
     if (Strings.isNullOrEmpty(aclName)) {
       if (acls.isACLPresent(keyName, KeyOpType.MANAGEMENT)) {
-        options.setAttributes(ImmutableMap.<String, String> builder()
+        options.setAttributes(EmptyImmutableMap.<String, String> builder()
             .putAll(attributes).put(KEY_ACL_NAME, keyName).build());
         success =
             acls.hasAccessToKey(keyName, ugi, KeyOpType.MANAGEMENT)
